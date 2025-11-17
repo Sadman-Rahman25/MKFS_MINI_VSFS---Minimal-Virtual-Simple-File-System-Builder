@@ -1,2 +1,2 @@
-# MKFS_MINI_VSFS---Minimal-Virtual-Simple-File-System-Builder
+# MKFS_MINI_VSFS- Minimal-Virtual-Simple-File-System-Builder
 MKFS_MINI_VSFS is a C-based tool designed to create a minimal virtual simple file system image. The project implements essential file system structures such as the superblock, inodes, and directory entries along with CRC32 checksum calculations for data integrity. It supports basic file system creation operations like setting up root directories and saving file data, serving as a practical implementation for understanding file system architecture and low-level storage management. This project is ideal for anyone learning about operating systems, file system design, or embedded systems programming.
